@@ -5,9 +5,9 @@
 
 <a href="https://biell-lopes.github.io/Projeto_Villa_Pizza/">Clique para acessar o site</a>
 
-
-# 👨🏻‍🏫 Professor  
+# 👨🏻‍🏫 Professor e Turma   
  - Fabiano Alves de Souza 
+ - 2º semestre de S.I
 
 
 # 👨‍💻 Grupo
